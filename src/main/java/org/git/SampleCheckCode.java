@@ -11,7 +11,10 @@ public class SampleCheckCode {
 		
 		System.out.println("Welcome to Moankshra");
 		
-	
+
+		public void add(){
+			System.out.println("Committed 1");
+
 		
 		
 	}
